@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500 initialization
+SUCCESS # <- 1st TORPEDO
+SUCCESS # <- 2nd TORPEDO

@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0 # Primary failure rate: 1.0 (always fails)
+TORPEDO,SINGLE

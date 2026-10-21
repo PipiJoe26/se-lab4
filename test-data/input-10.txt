@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 # Primary: 1, Secondary: 0
+TORPEDO,SINGLE # 1st fire: Primary succeeds, wasPrimaryFiredLast becomes true
+TORPEDO,SINGLE # 2nd fire: enters line 53, secondary is empty, primary is now ALSO empty (line 61 evaluates to false)

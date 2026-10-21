@@ -1,0 +1,2 @@
+GT4500,10,0,0,0   # Primary: 10, Secondary: 0
+TORPEDO,ALL       # At least one fired successfully

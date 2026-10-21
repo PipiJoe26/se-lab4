@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # Primary: 0, Secondary: 10
+TORPEDO,ALL     # Primary fails/empty, Secondary succeeds -> covers false || true branch
